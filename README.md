@@ -1,8 +1,8 @@
-\# Project Name
+# Project Name
 
 
 
-\## Problem Statement
+## Problem Statement
 
 Online scams and phishing attacks are increasing rapidly. Users often receive emails, messages, or links that look legitimate but are designed to steal sensitive information such as passwords, OTPs, and bank details.
 
@@ -12,7 +12,7 @@ Most users cannot easily identify malicious content, which leads to financial lo
 
 
 
-\## Project Description
+## Project Description
 
 This project is an AI-powered Scam \& Phishing Detection System that analyzes text (emails, messages, or links) and determines whether it is safe or malicious.
 
@@ -52,19 +52,19 @@ Can be extended into a browser extension (Gmail protection)
 
 
 
-\## Google AI Usage
+## Google AI Usage
 
-\### Tools / Models Used
+### Tools / Models Used
 
 Google Gemini 2.5 Flash
 
 Google AI API
 
-\- 
+- 
 
 
 
-\### How Google AI Was Used
+### How Google AI Was Used
 
 Google Gemini API is used as the core intelligence engine of the project.
 
@@ -94,9 +94,9 @@ This allows the system to understand context, not just keywords — making it fa
 
 
 
-\## Proof of Google AI Usage
+## Proof of Google AI Usage
 
-Attach screenshots in a `/proof` folder:
+Attach screenshots in a `root folder` folder:
 
 
 
@@ -104,11 +104,11 @@ Attach screenshots in a `/proof` folder:
 
 
 
-\---
+---
 
 
 
-\## Screenshots 
+## Screenshots 
 
 Add project screenshots:
 
@@ -120,39 +120,34 @@ Add project screenshots:
 
 
 
-\---
+---
 
 
 
-\## Demo Video
+## Demo Video
 
 Upload your demo video to Google Drive and paste the shareable link here(max 3 minutes).
 
-\[Watch Demo](#)
+[Watch Demo](#)
 
 
 
-\---
+---
 
 
 
-\## Installation Steps
+## Installation Steps
 
 
 
 ```bash
 
-\# Clone the repository
+# Clone the repository
 
-git clone <your-repo-link>
+git clone https://github.com/bas1c-codes/PhishingDetector
 
 
 
-\# Go to project folder
+# Go to project folder
 
 cd project-name
-
-
-
-
-
