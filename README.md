@@ -100,7 +100,7 @@ Attach screenshots in a `root folder` folder:
 
 
 
-!\[AI Proof](./ss1.png)
+[AI Proof](./ss1.png)
 
 
 
@@ -114,9 +114,9 @@ Add project screenshots:
 
 
 
-!\[Screenshot1](./ss2.png)  
+[Screenshot1](./ss2.png)  
 
-!\[Screenshot2](./ss3.png)
+[Screenshot2](./ss3.png)
 
 
 
