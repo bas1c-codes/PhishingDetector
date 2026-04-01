@@ -1,0 +1,24 @@
+{
+    "name": "Scam Detector",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "cat-aura.png"
+    },
+    "permissions": [],
+    "host_permissions": [
+        "https://mail.google.com/*",
+        "https://generativelanguage.googleapis.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://mail.google.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
